@@ -3,9 +3,9 @@
 
 # AND101 Project 1 - Hello, Squirrel!
 
-Submitted by: **Your Name Here**
+Submitted by: **Nia LaCour**
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Summary
 
